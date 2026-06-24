@@ -7,7 +7,7 @@ import {
 
 import { auth, provider } from "./firebase";
 import Sidebar from "./components/Sidebar";
-import ChatRoom from "./components/Chatroom";
+import ChatRoom from "./components/ChatRoom";
 
 import "./App.css";
 
